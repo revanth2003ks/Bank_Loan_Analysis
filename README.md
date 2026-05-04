@@ -223,7 +223,6 @@ This is the most important dashboard in the project.
 - Total Loan Exposure for High Risk Customers
 - Approval Rate
 - Rejection Rate
-- Included Visuals
 - Loan by Risk Level
 - Risk Distribution
 - Loan Decision Breakdown
