@@ -185,3 +185,70 @@ Interactive dashboards were built using Power BI to provide clear business insig
 - Business Lending
 
 This dashboard provides an overall business summary.
+<img width="1286" height="709" alt="Screenshot 2026-05-04 200022" src="https://github.com/user-attachments/assets/c2bf4a4d-21c7-4427-aa25-94bc506df341" />
+
+#### Dashboard 2: Loan Analysis Dashboard
+**Included Analysis**
+- Total Loan
+- Bank Loan
+- Business Lending
+- Credit Card Balance
+- Loan by Income Band
+- Loan by Occupation
+- Loan by Nationality
+- Loan by Banking Relationship
+
+This helps understand loan distribution and exposure.
+<img width="1277" height="707" alt="Screenshot 2026-05-04 200054" src="https://github.com/user-attachments/assets/1b19cdb9-29b6-4b63-a3de-8f638e744ffb" />
+
+#### Dashboard 3: Deposit Analysis Dashboard
+**Included Analysis**
+- Total Deposit
+- Bank Deposit
+- Savings Accounts
+- Checking Accounts
+- Foreign Currency Accounts
+- Deposit by Income Band
+- Deposit by Occupation
+- Deposit by Nationality
+
+This helps analyze customer deposit behavior.
+<img width="1291" height="701" alt="Screenshot 2026-05-04 200120" src="https://github.com/user-attachments/assets/cf6653ef-8b45-4ef9-811d-a570843be741" />
+
+#### Dashboard 4: Risk and Recommendation Dashboard
+This is the most important dashboard in the project.
+**Included KPIs**
+- High Risk Clients
+- Percentage of High Risk Clients
+- Total Loan Exposure for High Risk Customers
+- Approval Rate
+- Rejection Rate
+- Included Visuals
+- Loan by Risk Level
+- Risk Distribution
+- Loan Decision Breakdown
+- Risk by Income Band
+- Average Risk Score by Occupation
+
+This dashboard transforms the project from descriptive analytics into decision-driven analytics.
+<img width="1318" height="719" alt="Screenshot 2026-05-04 200154" src="https://github.com/user-attachments/assets/402853fc-319d-4242-8bbf-48073d3cc64c" />
+
+### Key Insights
+- High loan exposure is concentrated among specific customer groups
+- Customers with lower income and higher loans tend to be high risk
+- Credit card utilization strongly influences customer risk
+- Private banking customers contribute significantly to loan and deposit volume
+- Risk levels vary across occupations, income bands, and demographic segmen
+
+### Business Recommendations
+- Limit loan approvals for high-risk customers to reduce default risk
+- Prioritize low-risk customers for premium financial products
+- Monitor customers with high credit card utilization closely
+- Strengthen lending policies for low-income customers with high borrowing patterns
+- Use customer segmentation insights to improve banking strategies
+
+### Conclusion
+
+This project demonstrates how data analytics can improve banking risk management and lending decisions. By combining MySQL, Python, and Power BI, an end-to-end analytics solution was developed to identify risky customers, classify financial behavior, and recommend loan approvals.
+
+The project moves beyond simple dashboard reporting by integrating risk scoring and business recommendations, making it a practical decision-support system for banking operations.
