@@ -13,6 +13,9 @@ The project aims to:
 - Recommend loan approval decisions based on customer risk profiles
 - Build interactive dashboards for business decision-making and performance monitoring
 
+<img width="317" height="759" alt="Screenshot 2026-05-15 174557" src="https://github.com/user-attachments/assets/06e2d744-4259-4d99-b245-a5bf8907df44" />
+
+
 ## Tools and Technologies Used
 - Python
 - MySQL
